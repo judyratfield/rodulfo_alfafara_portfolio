@@ -1,0 +1,13 @@
+train: data_images/train
+val: data_images/val
+nc: 1
+names:
+    0: mound
+    
+
+
+
+
+    
+ 
+
